@@ -2436,7 +2436,7 @@
     "cityCoordinates": [48.1398, 23.0364],
     "zoomCity": 12,
     "name": "м. Мукачево, ТЦ Retail Park, вулиця Шептицького, 21,",
-    "coordinates": [],
+    "coordinates": [48.4587795, 22.712323],
     "time": {
       "sunday": "09:00-20:00 ",
       "monday": "09:00-20:00",
@@ -2453,7 +2453,7 @@
     "cityCoordinates": [48.322157, 25.904722],
     "zoomCity": 12,
     "name": "м.Чернівці, вул. Галицький Шлях, 11",
-    "coordinates": [],
+    "coordinates": [48.322207, 25.905308],
     "time": {
       "sunday": "09:00-22:00",
       "monday": "09:00-22:00",
